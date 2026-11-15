@@ -6,3 +6,5 @@ Alteração de ficheiro:
 	-VM-Ubuntu
 
 1ª Alteração através do Windows10 com PC de casa
+
+2ª Alteração através do CentOS
