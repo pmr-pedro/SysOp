@@ -1,0 +1,7 @@
+Criação de ficheiro "Mudame" para o exercício
+
+Alteração de ficheiro:
+	-Windows10PRO
+	-CentOS
+	-VM-Ubuntu
+
