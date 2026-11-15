@@ -9,7 +9,7 @@ Alteração de ficheiro:
 
 2ª Alteração através do CentOS
 
-3ª Alteração atravś da VM-Ubuntu no site do Git
+3ª Alteração através da VM-Ubuntu no site do Git
 
 ATEC - C.CISEG PL 1026
 PedroMRibeiro 
